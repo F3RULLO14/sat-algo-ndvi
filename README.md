@@ -2,7 +2,7 @@
 
 The task is to determine NDVI values, reproject, scale, and output a geotiff based on another 8-band geotiff.
 
-For more information, please refer to the [README](sample/README.txt) in the sample folder or [explanation](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) on wikipedia.
+For more information, please refer to this [explanation](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) on wikipedia.
 
 <img src="sample/ndvi_screenshot.png" width="700">
 
