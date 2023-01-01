@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='ndvi-detection',
+    name='NDVIDetection',
     package_dir={'': 'src'},
     packages=find_packages(where='src'),
-    version='0.0.1',
+    version='0.1.0',
     description='Evaluate NDVI values of a geotif.',
     author='Andrew Ferullo',
     license='MIT',
